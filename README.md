@@ -1,1 +1,1 @@
-# cut-style
+# cut-styles
